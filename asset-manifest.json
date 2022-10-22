@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/demoreact-todo-apps/static/css/main.8e2910f5.chunk.css",
+    "main.js": "/demoreact-todo-apps/static/js/main.0c2f842a.chunk.js",
+    "main.js.map": "/demoreact-todo-apps/static/js/main.0c2f842a.chunk.js.map",
+    "runtime-main.js": "/demoreact-todo-apps/static/js/runtime-main.89cbe30f.js",
+    "runtime-main.js.map": "/demoreact-todo-apps/static/js/runtime-main.89cbe30f.js.map",
+    "static/css/2.07ed3445.chunk.css": "/demoreact-todo-apps/static/css/2.07ed3445.chunk.css",
+    "static/js/2.d9ece49a.chunk.js": "/demoreact-todo-apps/static/js/2.d9ece49a.chunk.js",
+    "static/js/2.d9ece49a.chunk.js.map": "/demoreact-todo-apps/static/js/2.d9ece49a.chunk.js.map",
+    "static/js/3.a2d4b48d.chunk.js": "/demoreact-todo-apps/static/js/3.a2d4b48d.chunk.js",
+    "static/js/3.a2d4b48d.chunk.js.map": "/demoreact-todo-apps/static/js/3.a2d4b48d.chunk.js.map",
+    "index.html": "/demoreact-todo-apps/index.html",
+    "static/css/2.07ed3445.chunk.css.map": "/demoreact-todo-apps/static/css/2.07ed3445.chunk.css.map",
+    "static/css/main.8e2910f5.chunk.css.map": "/demoreact-todo-apps/static/css/main.8e2910f5.chunk.css.map",
+    "static/js/2.d9ece49a.chunk.js.LICENSE.txt": "/demoreact-todo-apps/static/js/2.d9ece49a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/demoreact-todo-apps/static/media/Star_Wars.225c3567.jpg",
+    "static/media/XuanHuu.6c85c2c4.jpg": "/demoreact-todo-apps/static/media/XuanHuu.6c85c2c4.jpg",
+    "static/media/bot_image.2cee8696.jpg": "/demoreact-todo-apps/static/media/bot_image.2cee8696.jpg",
+    "static/media/font-awesome.min.css": "/demoreact-todo-apps/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89cbe30f.js",
+    "static/css/2.07ed3445.chunk.css",
+    "static/js/2.d9ece49a.chunk.js",
+    "static/css/main.8e2910f5.chunk.css",
+    "static/js/main.0c2f842a.chunk.js"
+  ]
+}
